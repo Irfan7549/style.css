@@ -1,1 +1,8 @@
-# style.css
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #f4f4f4;
+}
+h1 {
+  color: #2c3e50;
+}
